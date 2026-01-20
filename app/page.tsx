@@ -34,7 +34,7 @@ export default function Home() {
             height={50}
             alt="Sublimación"
           />
-          <span className="text-xl font-semibold text-gray-900">Sublimación</span>
+          <span className="text-xl font-semibold text-gray-900">Sublimación de productos</span>
         </Link>
 
         {/* UV Print */}
