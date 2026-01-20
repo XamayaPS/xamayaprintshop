@@ -25,7 +25,7 @@ export default function Home() {
 
         {/* Sublimación */}
         <Link
-          href="/sublimacion"
+          href="/sublimacion de productos"
           className="flex items-center gap-4 bg-white/90 backdrop-blur-md shadow-lg rounded-xl p-4 hover:bg-white active:scale-95 transition"
         >
           <Image
