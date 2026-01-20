@@ -32,7 +32,7 @@ export default function Home() {
             src="https://img.icons8.com/?size=512&id=23264&format=png"
             width={50}
             height={50}
-            alt="Sublimación"
+            alt="Sublimación de productos"
           />
           <span className="text-xl font-semibold text-gray-900">Sublimación de productos</span>
         </Link>
